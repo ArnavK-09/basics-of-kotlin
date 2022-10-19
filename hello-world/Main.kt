@@ -1,6 +1,8 @@
 // Hello Kotlin!
-
-fun main(args: Array<String>) {
+fun main() {
     // new line print function
     println("Hello World!");
+
+    // normal print function without new line
+    print("Of Kotlin");
 }
