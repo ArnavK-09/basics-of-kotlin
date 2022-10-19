@@ -4,5 +4,5 @@ fun main() {
     println("Hello World!");
 
     // normal print function without new line
-    print("Of Kotlin");
+    print("From Kotlin");
 }
